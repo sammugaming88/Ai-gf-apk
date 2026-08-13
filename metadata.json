@@ -1,0 +1,6 @@
+{
+  "name": "AI GF",
+  "description": "An interactive, affectionate AI girlfriend & companion app powered by Gemini AI with custom personalities, voice chat, memories, and mood tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
